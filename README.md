@@ -1,3 +1,3 @@
-[English](./README_zh-CN.md) | 简体中文
+English | [简体中文](./README_zh-CN.md)
 # mozart.php
-php mvc framework , persuit for less code,simple use,and performance .   based on tp3.2&codeigniter and swoole
+mozart for php is a mvc framework , persuit for less code,simple use,and performance .   inspired by tp3.2&codeigniter and baseed on swoole
